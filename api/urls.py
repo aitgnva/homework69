@@ -26,5 +26,5 @@ urlpatterns = [
     path('subtract/', subtract_view, name='subtract_view'),
     path('divide/', divide_view, name='divide_view'),
     path('multiply/', multiply_view, name='multiply_view'),
-    # path('get_token/', get_token_view)
+
 ]
